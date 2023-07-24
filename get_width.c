@@ -2,6 +2,7 @@
 
 /**
  * get_width - This program prints Calculated widths for printing
+ * by Hephzibah and Gospel
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments that will be printed.
  * @list: list of arguments.

@@ -3,6 +3,7 @@
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - This program Prints the value of a pointer variable
+ * by Hephzibah and Gospel
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates the active flags

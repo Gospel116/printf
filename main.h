@@ -20,7 +20,6 @@
 
 /**
  * struct fmt - This program performs a Struct op ability
- * by Hephzibah and Gospel
  * @fmt: The format that will be used.
  * @fn: The function that is associated with the program.
  */

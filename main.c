@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by Hephzibah and Gospel
+ *
  * Return: Always 0
  */
 int main(void)

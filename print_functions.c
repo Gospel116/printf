@@ -4,6 +4,7 @@
 
 /**
  * print_char - This program Prints a character
+ * by Hephzibah and Gospel
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates the active flags

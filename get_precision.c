@@ -3,6 +3,7 @@
 /**
  * get_precision - Calculates the precision for printing
  * @format: Formatted string in which to print the arguments
+ * by Hephzibah and Gospel
  * @i: List of arguments to be printed.
  * @list: list of arguments.
  *

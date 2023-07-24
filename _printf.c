@@ -4,6 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - This is a Printf function that is used in the project
+ * by Hephzibah and Gospel
  * @format: format that will be executed.
  * Return: Printed characters.
  */

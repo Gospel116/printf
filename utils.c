@@ -2,6 +2,7 @@
 
 /**
  * is_printable - This program Evaluates if a char is printable
+ * by Hephzibah and Gospel
  * @c: Character to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise

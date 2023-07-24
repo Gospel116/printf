@@ -3,6 +3,7 @@
 /**
  * get_flags - This program prints Calculated active flags
  * @format: Formatted string to print the arguments in the program
+ * by Hephzibah and Gospel
  * @i: takes a parameter.
  * Return: Flags:
  */

@@ -1,1 +1,1 @@
-This is a printf project that is done by both Gospel Ijachi and Ikhioda Hephzibah
+This is a printf project that is done by both Gospel Ijachi and Ikhioda Hephzibah respectively
